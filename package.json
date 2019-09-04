@@ -1,0 +1,22 @@
+{
+  "name": "gabriel",
+  "version": "1.0.0",
+  "description": "simple package to send cloudwatch events to slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ersoy-insider/gabriel.git"
+  },
+  "author": "Ersoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ersoy-insider/gabriel/issues"
+  },
+  "homepage": "https://github.com/ersoy-insider/gabriel#readme",
+  "dependencies": {
+    "@slack/webhook": "^5.0.1"
+  }
+}
